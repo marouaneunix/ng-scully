@@ -1,0 +1,11 @@
+identifier: l2p595f6fcq3l6ce
+appPort: 1864
+staticPort: 1668
+reloadPort: 2667
+hostName: localhost
+projectName: ng-scully
+homeFolder: /Users/merrouni/projects/angular/ng-scully
+distFolder: ./dist/ng-scully
+outDir: /Users/merrouni/projects/angular/ng-scully/dist/static
+handle404: ''
+allowErrorCollect: false
